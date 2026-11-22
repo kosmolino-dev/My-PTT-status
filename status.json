@@ -1,21 +1,21 @@
 {
   "schema": 1,
-  "collected_at": 1795341701,
+  "collected_at": 1795345241,
   "host": {
-    "uptime_s": 5361022,
+    "uptime_s": 5364562,
     "load_1m": 0.08,
     "mem_total_mb": 952,
-    "mem_available_mb": 451,
+    "mem_available_mb": 461,
     "disk_used_pct": 22,
     "disk_free_mb": 22323,
-    "tx_bytes_total": 1054849507,
-    "rx_bytes_total": 2698390948,
+    "tx_bytes_total": 1055112522,
+    "rx_bytes_total": 2698882853,
     "tls_days_left": 87
   },
   "containers": {
-    "livekit": {"state":"running","restarts":0,"uptime_s":5360993},
-    "tokens": {"state":"running","restarts":0,"uptime_s":5324723},
-    "caddy": {"state":"running","restarts":0,"uptime_s":5360993}
+    "livekit": {"state":"running","restarts":0,"uptime_s":5364533},
+    "tokens": {"state":"running","restarts":0,"uptime_s":5328263},
+    "caddy": {"state":"running","restarts":0,"uptime_s":5364533}
   },
   "usage": {
     "devices": 6,
@@ -38,7 +38,7 @@
     "tracebacks": 0
   },
   "backup": {
-    "age_hours": 6,
+    "age_hours": 7,
     "last_result": "success"
   }
 }
